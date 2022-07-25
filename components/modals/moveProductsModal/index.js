@@ -1,0 +1,1 @@
+export { MoveProductsModal } from "./MoveProductsModal";

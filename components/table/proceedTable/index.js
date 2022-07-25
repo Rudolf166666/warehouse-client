@@ -1,0 +1,1 @@
+export { ProceedTable } from "./ProceedTable";

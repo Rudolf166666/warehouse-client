@@ -1,0 +1,1 @@
+export { ProceedProductsModal } from "./ProceedProductsModal";
